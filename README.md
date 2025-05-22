@@ -63,6 +63,10 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 	- **代码编程**：我有较强的编程能力和丰富的代码积累，帮助学生快速上手
 	- **论文撰写**：从实验布置到论文撰写再到论文修订，各个环节手把手指导
 
+<p align="center"><img src="https://github.com/Yanfeng-Zhou/Yanfeng-Zhou/blob/main/Getonboardquickly.png" width="20%" ></p>
+
+
+
 - **Supervised Master Students:** 
 	> Yangyang (Master 2024)
 
