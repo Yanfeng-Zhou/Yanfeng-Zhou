@@ -48,7 +48,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 - **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备.（**已公开**）
 
 ## Students
-- :star::star::star: **Actively looking for students:**（zhouyanfeng2020@ia.ac.cn）
+- :star::star::star: **Actively looking for students:**（zhouyanfeng@szu.edu.cn.cn）
 **招生要求：**
 	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
 	- 对计算机视觉和生物医学影像分析感兴趣
