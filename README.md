@@ -20,7 +20,7 @@
 - [2025.02]: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
 ## Research Interests
-Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardiovascular and Cerebrovascular Imaging Analysis, Cardiac Imaging Analysis, Foundation Models for Medical Imaging 
+Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascular Imaging Analysis, Cardiac Imaging Analysis, Ultrasound Image Analysis, Foundation Models for Medical Imaging, Medical Agent
 
 ## Experience
 
